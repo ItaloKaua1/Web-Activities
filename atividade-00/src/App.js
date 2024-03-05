@@ -1,6 +1,7 @@
 import './App.css';
 import MeusDados from './components/MeusDados';
 import MeusDados2 from './components/MeusDados2';
+import Temperatura from './components/Temperatura';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         curso="Engenharia de Software"
         universidade="Universidade Federal do Ceará - Campus Quixadá"
       />
+      <Temperatura/>
     </div>
   );
 }
