@@ -22,9 +22,9 @@ const MeusDados = () => {
 
     const MeusDadosArrowSemReturn = () => (
         <div className="div3">
-            <h1>Nome Completo: Seu Nome Completo</h1>
-            <h1>Curso: Seu Curso</h1>
-            <h1>Universidade: Sua Universidade</h1>
+            <h1>Nome Completo: Ítalo Kauã Vitor Fernandes</h1>
+            <h1>Curso: Engenharia de Software</h1>
+            <h1>Universidade: Universidade Federal do Ceará - Campus Quixadá</h1>
         </div>
     );
 
@@ -32,9 +32,9 @@ const MeusDados = () => {
         render() {
             return (
                 <div className="div4">
-                    <h1>Nome Completo: Seu Nome Completo</h1>
-                    <h1>Curso: Seu Curso</h1>
-                    <h1>Universidade: Sua Universidade</h1>
+                    <h1>Nome Completo: Ítalo Kauã Vitor Fernandes</h1>
+                    <h1>Curso: Engenharia de Software</h1>
+                    <h1>Universidade: Universidade Federal do Ceará - Campus Quixadá</h1>
                 </div>
             );
         }
